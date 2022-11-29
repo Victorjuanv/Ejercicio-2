@@ -1,5 +1,5 @@
 
-a link { color:red; }
+a:link { color:red; }
 a:visited {color:black;}
 a:hover {color:blue;}
 a:active {color:violet}
