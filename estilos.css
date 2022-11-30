@@ -7,6 +7,9 @@ body {
 h1 {
     text-align: center;
 }
+h2 {
+    font-weight: bolder;
+}
 /*añadimos diferentes estilos para el enlace a otra página web*/
 a:link {
     color: blue;
