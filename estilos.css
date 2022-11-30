@@ -1,13 +1,13 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: justify;
-    background-color: #f5dbb4;
+    background-color: #e6d3b8;
 }
 
 h1 {
     text-align: center;
 }
-
+/*añadimos diferentes estilos para el enlace a otra página web*/
 a:link {
     color: blue;
     text-decoration: white
@@ -25,10 +25,3 @@ a:hover {
 a:active {
     color: violet;
 }
-
-
-/*ejemplos aquí
-a:link { color:darkgreen; text-decoration: none }
-a.:visited { color: red;}
-a:hover { color: darkviolet; font-weight: bold }
-a:active { color: yellowgreen; }*/
