@@ -1,8 +1,18 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    background-color: #f5dbb4;}
+h1{
+    text-align: center;
+}
 
-a:link{ color:red;text-decoration: white }
-a:visited{color:#000000;}
-a:hover{color:blue;font-weight: bold}
-a:active{color:violet}
+a:link { color:red;text-decoration: white }
+
+a:visited { color:#000000;}
+
+a:hover { color:blue;font-weight: bold }
+
+a:active { color:violet; }
 
 
 /*ejemplos aquí
