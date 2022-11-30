@@ -9,12 +9,12 @@ h1 {
 }
 
 a:link {
-    color: red;
+    color: blue;
     text-decoration: white
 }
 
 a:visited {
-    color: #000000;
+    color:grey;
 }
 
 a:hover {
