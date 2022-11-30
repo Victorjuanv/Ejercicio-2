@@ -1,8 +1,8 @@
 
-a:link { color:red;text-decoration: white }
-a:visited {color:black;}
-a:hover {color:blue;}
-a:active {color:violet}
+a:link{ color:red;text-decoration: white }
+a:visited{color:#000000;}
+a:hover{color:blue;font-weight: bold}
+a:active{color:violet}
 
 
 /*ejemplos aquí
