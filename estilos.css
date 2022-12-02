@@ -12,7 +12,7 @@ h2 {
 }
 /*añadimos diferentes estilos para el enlace a otra página web*/
 a:link {
-    color: blue;
+    color: rgb(6, 70, 16);
     text-decoration: white
 }
 
